@@ -1,3 +1,6 @@
 This is apoorva.
 i am ingesting more data
+<<<<<<< HEAD
 
+=======
+>>>>>>> feature
